@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66ecffb7-0045-4a92-a312-0cfa8763cb47" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZwqLtrIm8DIBrjpjVwCiHJnMQt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/tf_sample/loginGithub.feature" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.11609195" />
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: Login as a authenticated user">
+    <configuration name="Feature: simple" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/tf_sample/simple.feature" />
+      <option name="GLUE" value="squash.tf_sample" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Projet-Test-Cucumber" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: simple" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Login as a authenticated user" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/tf_sample/loginGithub.feature" />
+      <option name="GLUE" value="squash.tf_sample" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Projet-Test-Cucumber" />
+      <option name="NAME_FILTER" value="^Login as a authenticated user$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Login as a authenticated user$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login as a authenticated user" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: add two numbers" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="C:\Users\Admin\Desktop\HafsaDoc\projet-Test\Projet-Test-Cucumber\src\test\resources\tf_sample\loginGithub.feature" />
+      <option name="GLUE" value="squash.tf_sample" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Projet-Test-Cucumber" />
+      <option name="NAME_FILTER" value="^add two numbers$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^add two numbers$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: add two numbers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Projet-Test-Cucumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projet-Test-Cucumber" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature: simple" />
+      <item itemvalue="Cucumber java.Scenario: add two numbers" />
+      <item itemvalue="Cucumber java.Scenario: Login as a authenticated user" />
+      <item itemvalue="JUnit.All in Projet-Test-Cucumber" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Login as a authenticated user" />
+        <item itemvalue="Cucumber java.Scenario: add two numbers" />
+        <item itemvalue="Cucumber java.Feature: simple" />
+        <item itemvalue="JUnit.All in Projet-Test-Cucumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66ecffb7-0045-4a92-a312-0cfa8763cb47" name="Default Changelist" comment="" />
+      <created>1585760451396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585760451396</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="186" y="0" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586124133498">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="186" y="0" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1586124133498" />
+    <state x="523" y="77" key="FileChooserDialogImpl" timestamp="1586124130652">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="523" y="77" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1586124130652" />
+    <state width="1323" height="116" key="GridCell.Tab.0.bottom" timestamp="1586213347809">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586213347809" />
+    <state width="1323" height="116" key="GridCell.Tab.0.center" timestamp="1586213347809">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586213347809" />
+    <state width="1323" height="116" key="GridCell.Tab.0.left" timestamp="1586213347809">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586213347809" />
+    <state width="1323" height="116" key="GridCell.Tab.0.right" timestamp="1586213347809">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586213347809" />
+    <state x="213" y="24" key="Maven.ArtifactSearchDialog" timestamp="1585933766331">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="213" y="24" key="Maven.ArtifactSearchDialog/0.0.1366.738@0.0.1366.738" timestamp="1585933766331" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1585935382707">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1585935382707" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1586170118515">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1586170118515" />
+    <state x="435" y="290" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1585933725734">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="435" y="290" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1585933725734" />
+  </component>
+</project>
