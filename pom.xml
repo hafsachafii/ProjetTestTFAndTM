@@ -48,7 +48,7 @@
 				<artifactId>squash-tf-gherkin-maven-plugin</artifactId>
 				<version>${ta.cucumber.runner.version}</version>
 				<configuration>
-					<featuresList>${C:\Users\Admin\Desktop\HafsaDoc\projet-Test\Projet-Test-Cucumber\src\test\resources\tf_sample\subfolder}</featuresList>
+					<featuresList>${src/test/resources/file/test.json}</featuresList>
 					<squashRoot>squash</squashRoot>
 					<!-- DryRunOptions for dryrun goal only -->
 					<additionnalDryRunChecks>true</additionnalDryRunChecks>

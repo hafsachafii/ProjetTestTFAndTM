@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66ecffb7-0045-4a92-a312-0cfa8763cb47" name="Default Changelist" comment="" />
+    <list default="true" id="66ecffb7-0045-4a92-a312-0cfa8763cb47" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/file/test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZwqLtrIm8DIBrjpjVwCiHJnMQt" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/tf_sample/loginGithub.feature" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../squashtestprojecttemplate" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.11609195" />
@@ -107,26 +114,26 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="186" y="0" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1586124133498" />
-    <state x="523" y="77" key="FileChooserDialogImpl" timestamp="1586124130652">
+    <state x="523" y="77" key="FileChooserDialogImpl" timestamp="1586795848214">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="523" y="77" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1586124130652" />
-    <state width="1323" height="116" key="GridCell.Tab.0.bottom" timestamp="1586213347809">
+    <state x="523" y="77" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1586795848214" />
+    <state width="1323" height="201" key="GridCell.Tab.0.bottom" timestamp="1586443510385">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="116" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586213347809" />
-    <state width="1323" height="116" key="GridCell.Tab.0.center" timestamp="1586213347809">
+    <state width="1323" height="201" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586443510385" />
+    <state width="1323" height="201" key="GridCell.Tab.0.center" timestamp="1586443510384">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="116" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586213347809" />
-    <state width="1323" height="116" key="GridCell.Tab.0.left" timestamp="1586213347809">
+    <state width="1323" height="201" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586443510384" />
+    <state width="1323" height="201" key="GridCell.Tab.0.left" timestamp="1586443510383">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="116" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586213347809" />
-    <state width="1323" height="116" key="GridCell.Tab.0.right" timestamp="1586213347809">
+    <state width="1323" height="201" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586443510383" />
+    <state width="1323" height="201" key="GridCell.Tab.0.right" timestamp="1586443510384">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="116" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586213347809" />
+    <state width="1323" height="201" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586443510384" />
     <state x="213" y="24" key="Maven.ArtifactSearchDialog" timestamp="1585933766331">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -135,10 +142,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1585935382707" />
-    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1586170118515">
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1586791485908">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1586170118515" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1586791485908" />
     <state x="435" y="290" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1585933725734">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

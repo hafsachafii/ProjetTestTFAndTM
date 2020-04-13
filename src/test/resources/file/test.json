@@ -1,0 +1,10 @@
+{
+  "test": [
+    {
+      "script": "src/test/resources/tf_sample/simple.feature"
+    },
+    {
+      "script": "src/test/resources/tf_sample/loginGithub.feature"
+    }
+  ]
+}
